@@ -1,3 +1,3 @@
 # firttime
 This is our **first lesson** in sec math 17
-[pink na palaka](https://www.posit.com)
+[pink na palaka](https://www.youtube.com)
