@@ -5,6 +5,7 @@ This is our **first lesson** in sec math 17
 # *setting up*
 
 this is how ^?^ we set-up RStudio.
+
 1. installed r from the R website
 2. installed ==RStudio== from their website
 
