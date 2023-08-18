@@ -1,8 +1,8 @@
 # firttime
-This is our **first lesson** in sec math 17
-[pink na palaka](https://www.youtube.com)
+This is our **first lesson** in *sec math 17* Laboratory.
+[pink na palaka](https://www.youtube.com) siite.
 
-# *setting up*
+#setting up
 
 this is how ^?^ we set-up RStudio.
 
