@@ -12,4 +12,4 @@ this is how ^?^ we set-up RStudio.
 
 ## JUST PLAYING AROUND 
 
-Im Doing Good 
+Sheeessh!
